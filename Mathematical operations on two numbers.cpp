@@ -12,6 +12,6 @@ int main() {
     cout<<"Multiplication \n";
     cout<<a*b<<"\n";
     cout<<"Quotient \n";
-    cout<<a%b<<"\n";
+    cout<<a/b<<"\n";
     return 0;
 }
