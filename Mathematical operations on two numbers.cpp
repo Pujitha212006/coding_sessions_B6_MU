@@ -1,4 +1,4 @@
-//print addition,subtraction,multiplication and quotient of two numbers
+//print addition,subtraction,multiplication and quotient of two numbers(userdefined)
 #include <iostream>
 using namespace std;
 int main() {
