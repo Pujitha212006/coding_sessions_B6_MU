@@ -1,4 +1,4 @@
-// swap two numbers without temp value
+// swap two numbers without temp values
 #include <iostream>
 using namespace std;
 int main() {
