@@ -9,8 +9,8 @@ int main() {
     cout<<"\na="<<a<<"b="<<b;
     swap(a,b);
     a=a+b;
-    b=b-a;
-    a=a+b;
+    b=a-b;
+    a=a-b;
     cout<<"\nafter swap";
     cout<<"\na="<<a<<"b="<<b;
     return 0;
