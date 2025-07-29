@@ -7,6 +7,7 @@ int main() {
     cin>>a>>b;
     cout<<"before swap";
     cout<<"\na="<<a<<"b="<<b;
+    swap(a,b);
     a=a+b;
     b=b-a;
     a=a+b;
